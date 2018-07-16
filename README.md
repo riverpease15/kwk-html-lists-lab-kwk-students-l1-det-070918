@@ -11,7 +11,7 @@ tags that create margins around text.  Some, like the header tags, increase the
 font size.  In this lab, we're going to practice using some specific tags that
 help us keep the content inside of them organized, the `ul`, `ol` and `li` tags.
 
-**Remember to use `httpserver` to live test your webpage**
+**Remember to use `e` to live test your webpage**
 
 ### `<ul>`, `<li>`
 
